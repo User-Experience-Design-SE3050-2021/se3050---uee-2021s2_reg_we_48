@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/search_item1"
+        android:title="Womens Fashion" />
+    <item android:id="@+id/upload_item1"
+        android:title="Mens Fashion" />
+    <item android:id="@+id/copy_item"
+        android:title="Shoes" />
+    <item android:id="@+id/print_item"
+        android:title="Home and Living" />
+</menu>
